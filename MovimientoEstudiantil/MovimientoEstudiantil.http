@@ -1,0 +1,6 @@
+@MovimientoEstudiantil_HostAddress = http://localhost:5030
+
+GET {{MovimientoEstudiantil_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
